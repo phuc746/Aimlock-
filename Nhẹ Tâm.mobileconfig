@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>PayloadDisplayName</key>
-    <string>FF No Recoil MAX</string>
+    <string>FF Smooth Aim MAX</string>
     <key>PayloadIdentifier</key>
-    <string>com.ff.norecoil.max</string>
+    <string>com.ff.smoothaim.max</string>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>22222222-2222-2222-2222-222222222222</string>
+    <string>44444444-4444-4444-4444-444444444444</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
     <key>PayloadContent</key>
@@ -18,13 +18,13 @@
             <key>ProxyType</key>
             <string>Auto</string>
             <key>ProxyAutoConfigURLString</key>
-            <string>https://your-proxy-url.com/ff_norecoil_max.pac</string>
+            <string>https://your-proxy-url.com/ff_smooth_aim_max.pac</string>
             <key>PayloadIdentifier</key>
-            <string>com.ff.proxy.norecoil</string>
+            <string>com.ff.proxy.smoothaim</string>
             <key>PayloadType</key>
             <string>com.apple.proxy.managed</string>
             <key>PayloadUUID</key>
-            <string>33333333-3333-3333-3333-333333333333</string>
+            <string>55555555-5555-5555-5555-555555555555</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
         </dict>
