@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>PayloadDisplayName</key>
-    <string>FF Smooth Aim MAX</string>
+    <string>FF Headshot Fix MAX</string>
     <key>PayloadIdentifier</key>
-    <string>com.ff.smoothaim.max</string>
+    <string>com.ff.headshotfix.max</string>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>44444444-4444-4444-4444-444444444444</string>
+    <string>66666666-6666-6666-6666-666666666666</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
     <key>PayloadContent</key>
@@ -18,13 +18,13 @@
             <key>ProxyType</key>
             <string>Auto</string>
             <key>ProxyAutoConfigURLString</key>
-            <string>https://your-proxy-url.com/ff_smooth_aim_max.pac</string>
+            <string>https://your-proxy-url.com/ff_headshot_fix_max.pac</string>
             <key>PayloadIdentifier</key>
-            <string>com.ff.proxy.smoothaim</string>
+            <string>com.ff.proxy.headshotfix</string>
             <key>PayloadType</key>
             <string>com.apple.proxy.managed</string>
             <key>PayloadUUID</key>
-            <string>55555555-5555-5555-5555-555555555555</string>
+            <string>77777777-7777-7777-7777-777777777777</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
         </dict>
