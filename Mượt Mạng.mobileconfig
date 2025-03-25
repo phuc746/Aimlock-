@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>PayloadDisplayName</key>
-    <string>FF Headshot Fix MAX</string>
+    <string>FF Network Boost MAX</string>
     <key>PayloadIdentifier</key>
-    <string>com.ff.headshotfix.max</string>
+    <string>com.ff.networkboost.max</string>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>66666666-6666-6666-6666-666666666666</string>
+    <string>88888888-8888-8888-8888-888888888888</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
     <key>PayloadContent</key>
@@ -18,13 +18,13 @@
             <key>ProxyType</key>
             <string>Auto</string>
             <key>ProxyAutoConfigURLString</key>
-            <string>https://your-proxy-url.com/ff_headshot_fix_max.pac</string>
+            <string>https://your-proxy-url.com/ff_network_boost_max.pac</string>
             <key>PayloadIdentifier</key>
-            <string>com.ff.proxy.headshotfix</string>
+            <string>com.ff.proxy.networkboost</string>
             <key>PayloadType</key>
             <string>com.apple.proxy.managed</string>
             <key>PayloadUUID</key>
-            <string>77777777-7777-7777-7777-777777777777</string>
+            <string>99999999-9999-9999-9999-999999999999</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
         </dict>
