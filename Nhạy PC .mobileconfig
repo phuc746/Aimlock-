@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadDisplayName</key>
+    <string>FF VIP Fix</string>
+    <key>PayloadIdentifier</key>
+    <string>com.ff.vip.fix</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>55555555-5555-5555-5555-555555555555</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>ProxyType</key>
+            <string>Auto</string>
+            <key>ProxyAutoConfigURLString</key>
+            <string>https://your-proxy-url.com/ff_vip_fix.pac</string>
+            <key>PayloadIdentifier</key>
+            <string>com.ff.proxy.fix</string>
+            <key>PayloadType</key>
+            <string>com.apple.proxy.managed</string>
+            <key>PayloadUUID</key>
+            <string>66666666-6666-6666-6666-666666666666</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+</dict>
+</plist>
