@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
     <key>PayloadDisplayName</key>
-    <string>FF VIP Fix</string>
+    <string>FF Headshot MAX</string>
     <key>PayloadIdentifier</key>
-    <string>com.ff.vip.fix</string>
+    <string>com.ff.headshot.max</string>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>55555555-5555-5555-5555-555555555555</string>
+    <string>99999999-9999-9999-9999-999999999999</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
     <key>PayloadContent</key>
@@ -18,13 +18,13 @@
             <key>ProxyType</key>
             <string>Auto</string>
             <key>ProxyAutoConfigURLString</key>
-            <string>https://your-proxy-url.com/ff_vip_fix.pac</string>
+            <string>https://your-proxy-url.com/ff_headshot_max.pac</string>
             <key>PayloadIdentifier</key>
-            <string>com.ff.proxy.fix</string>
+            <string>com.ff.proxy.headshotmax</string>
             <key>PayloadType</key>
             <string>com.apple.proxy.managed</string>
             <key>PayloadUUID</key>
-            <string>66666666-6666-6666-6666-666666666666</string>
+            <string>10101010-1010-1010-1010-101010101010</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
         </dict>
